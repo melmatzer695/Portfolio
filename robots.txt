@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://melmatzer695.github.io/Portfolio/sitemap.xml
